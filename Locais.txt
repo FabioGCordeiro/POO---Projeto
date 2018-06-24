@@ -1,0 +1,41 @@
+100/1/Bar/O Moelas/40.20/-8.4/0.5
+70/2/Bar/24/30.4/40.6/0.6
+200/2.5/Bar/Mandarim/20.2/-5.1/0.3
+350/0/Bar/Associacao Academica de Coimbra/-5/-10/0.4
+100/0/Bar/WhatsUp Doc/-20/10.1/0.2
+200/1.5/Bar/Pede Salsa/10/10/0.3
+150/1/Bar/Imperio/50/10/0.5
+200/4.5/Bar/CocoLoco/15.6/-19.7/0.4
+400/5/Bar/NB/12.6/-17.9/0.6
+100/2.5/Bar/Noites Longas/0.6/39.7/0.35
+0/Parque Verde/AreaDesportiva/13/34/Futsal/Remo/Canoagem 
+0/Santa Clara/AreaDesportiva/15/67/Futebol/Andebol/Futsal
+0/Fundo de Vila/AreaDesportiva/65.4/13.2/Futebol
+0/Parque do Rio Ul/AreaDesportiva/41.4/65.7/Atletismo/Ciclismo/Futebol/Basquetebol	
+0/Pavilhao Paulo Pinto/AreaDesportiva/31.2/56.6/Andebol/Futsal/Basquetebol/Tenis/Badminton
+0/Piscinas Municipais/AreaDesportiva/23.5/45.7/Natacao
+0/Pavilhao Gimnodesportivo/AreaDesportiva/45.9/12.5/Futsal/Basquetebol/Andebol/Badminton
+0/Estadio Orlando Mendes/AreaDesportiva/12.5/49.4/Futebol/Atletismo
+0/Estadio Estevao Faria/AreaDesportiva/15.7/67.3/Futebol
+0/Estadio Conde Dias Garcia/AreaDesportiva/14.6/8.4/Futebol/Atletismo
+80/0/Jardim/Jardins do Palacio de Cristal/17.6/13.6
+183/0/Jardim/Jardim da Quinta das Lagrimas/15.4/45.6
+250/0/Jardim/Jardim Portas do Sol/3.5/-7.6
+420/0/Jardim/Jardim do Xalet da Condessa dEdla/5.4/-10.2
+350/0/Jardim/Jardim Buddha Eden/4.6/10.2
+133/0/Jardim/Jardim Tropical Monte Palace/34.6/12.5
+40/0/Jardim/Jardim Botanico da Ajuda/13.2/1.6
+540/0/Jardim/Quinta do Mosteiro de Landim/23.4/34.9
+230/0/Jarim/Jardim D. Carlos I/65.6/10.1
+50/0/Jardim/Jardim da Sereia/45.2/12.7
+5/Pintura/Exposicao/Museu Nacional Grao Vasco/42.2/0.49
+4/Pintura/Exposicao/Museu de Lamego/60.0/23.0
+10/Escultura/Exposicao/Museu Colecao Berardo/61.2/87.8
+7/Escultura/Exposicao/Museu Nacional de Arte Contemporanea/43.2/-14.8
+9/Pintura/Exposicao/Casa Museu Bissaya Barreto/85.3/80.0
+2/Fotografia/Exposicao/Centro Portugues de Fotografia/4.6/4.0
+3/Fotografia/Exposicao/Instituto Portugues de Fotografia/14.7/30.5
+4/Escultura/Exposicao/Museu Nacional Machado de Castro/85.3/7.0
+2/Escultura/Exposicao/Museu do Caramulo/86.1/27.0 
+3/Fotografia/Exposicao/Museu Anjos Teixeira/23.8/82.7
+ 
